@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CemkDay</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="logo">logo</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="hint">SomeGoodDefaultPassword</string>
+    <string name="it1802">it1802 or it1802@cemk.ac.in</string>
+    <string name="login_button">login button</string>
+    <string name="cemkday">CemkDay</string>
+    <string name="dev_on_way">pratimdevonplay@gmail.com</string>
+    <string name="settings">Settings</string>
+    <string name="bug_report_feature_request">Bug Report/Feature Request</string>
+    <string name="about">About</string>
+    <string name="_cached">Cached Response if enabled</string>
+    <string name="_notif">Enable Daily Attendance Report (Notification)</string>
+    <string name="change_time">Change Time</string>
+    <string name="internet_must_be_connected_at_specified_time">**Internet must be connected at specified time\n**Doze Mode / Battery Saver prevents low priority background services to run.</string>
+    <string name="bug_description">Bug Description</string>
+    <string name="write_bug_description_here">Write bug description here. (Brief)</string>
+    <string name="select_severity">Select Severity</string>
+    <string name="is_seen_multiple_times">Is seen multiple times.</string>
+    <string name="it_is_a_rooted_device">It is a rooted device</string>
+    <string name="i_agree_to_privacy_policy">I agree to privacy policy.</string>
+    <string name="why">• Instant, so stop using browsers,logging in again &amp; again and saving passwords insecurely in browser.\n• Well organized UI, with overall &amp; per-subject information along with action assist.\n• Daily auto-attendance checker, get informed about your attendance without even opening the app. (experimental)</string>
+    <string name="view_password">view password</string>
+    <string-array name="bug_types">
+        <item>Critical</item>
+        <item>Minor</item>
+        <item>Enhancement/Feature+</item>
+    </string-array>
+</resources>

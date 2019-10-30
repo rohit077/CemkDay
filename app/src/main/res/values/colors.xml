@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003c59</color>
+    <color name="colorPrimaryDark">#003c59</color>
+    <color name="colorAccent">#5f5fc4</color>
+    <color name="colorNavBack">#263238</color>
+    <color name="colorDropMain">#3F51B5</color>
+    <color name="colorPrimaryStart">#00b8d4</color>
+    <color name="colorPrimaryDarkStart">#0088a3</color>
+    <color name="colorAccentStart">#62ebff</color>
+    <color name="colorPrimaryTimePicker">#e91e63</color>
+    <color name="colorPrimaryDarkTimePicker">#b0003a</color>
+    <color name="colorAccentTimePicker">#e91e63</color>
+    <color name="colorPrimarySettingAct">#e91e63</color>
+    <color name="colorPrimaryDarkSettingsAct">#b0003a</color>
+    <color name="colorPrimaryBug">#f9fbe7</color>
+    <color name="colorPrimaryDarkBug">#c6c8b5</color>
+    <color name="colorAccentBug">#ffffff</color>
+    <color name="colorPrimaryAbout">#aa00ff</color>
+    <color name="colorPrimaryDarkAbout">#7200ca</color>
+    <color name="colorAccentAbout">#e254ff</color>
+
+</resources>
